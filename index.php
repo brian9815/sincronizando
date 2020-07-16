@@ -1,3 +1,3 @@
 <?php 
-    echo "Solucionando conflictos";
+    echo "Solucionando conflictos de nuevo";
 ?>
